@@ -1,7 +1,7 @@
 {
   "name": "yuventa-bsb4-utils",
   "description": "empty bsb4.utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "commonjs",
   "license": "ISC",
   "keywords": [],
